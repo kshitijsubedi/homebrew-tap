@@ -4,7 +4,7 @@ cask "nepali-calendar" do
 
   url "https://github.com/kshitijsubedi/nepali-calendar-mac-updates/raw/refs/heads/main/versions/nepali-calendar-mac-#{version.csv.first}-#{version.csv.second}.dmg"
   name "Nepali Calendar"
-  desc "Nepali calendar and date converter widget for macOS"
+  desc "Nepali calendar and date converter menubar app for macOS"
   homepage "https://github.com/kshitijsubedi/nepali-calendar-widgets"
 
   depends_on macos: ">= :ventura"
