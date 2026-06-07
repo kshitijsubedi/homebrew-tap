@@ -1,6 +1,6 @@
 cask "nepali-calendar" do
-  version "2.5.3,34"
-  sha256 "cad0ad212fb621172f842718bf01f4edc2409a96aa45baf4e0703e5791a38d9e"
+  version "2.5.4,35"
+  sha256 "2808e9212a1f03f2b8046db3b7355c2d6137603f9062cec0b7ce3793bf372146"
 
   url "https://github.com/kshitijsubedi/nepali-calendar-mac-updates/raw/refs/heads/main/versions/nepali-calendar-mac-#{version.csv.first}-#{version.csv.second}.dmg"
   name "Nepali Calendar"
